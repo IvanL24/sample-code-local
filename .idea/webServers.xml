@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6c6c73e-8dfe-4474-a341-d6f3177241c6" name="Dev Server" url="127.0.0.1">
+        <fileTransfer rootFolder="C:\Users\User\Desktop\wbdv-practice\repository\" accessType="SFTP" sshConfigId="7d1ca1ca-ca56-4999-b324-90243dec24f5" sshConfig="Dev Server">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
